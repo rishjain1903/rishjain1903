@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm Rishabh Jain</h1>
 <h3 align="center">Passionate and Self taught Data Analyst from India</h3>
 
-- 🎓**Third Year Computer Engineering Student in D.J. Sanghvi College of Engineering.** 
+- 🎓**Final Year Computer Engineering Student in D.J. Sanghvi College of Engineering.** 
 - 👀 I’m interested in **Data Analytics and Business Intelligence**
 - 🌱 I’m currently learning **PowerBI** and improving on **Excel and SQL**
 - 💞️ I’m looking to collaborate on **Projects involving Data Analytics and Business Intelligence**
